@@ -16,4 +16,5 @@ console.log(arrayString)
 console.log(arrayStringCopia)
 
 arraysNSB.splice(1,1)
+
 console.log(arraysNSB, arraysNSBCopia)
